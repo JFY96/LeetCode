@@ -10,6 +10,7 @@ Problems from https://leetcode.com/
 - [141 - Linked List Cycle](./problems/141.js)
 - [199 - Binary Tree Right Side View](./problems/199.js)
 - [284 - Peeking Iterator](./problems/284.js)
+- [242 - Valid Anagram](./problems/242.js)
 - [821 - Shortest Distance to a Character](./problems/821.js)
 - [1329 - Sort the Matrix Diagonally](./problems/1329.js)
 - [1437 - Check If All 1's Are at Least Length K Places Away](./problems/1437.js)
