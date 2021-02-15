@@ -13,6 +13,8 @@ Problems from https://leetcode.com/
 - [242 - Valid Anagram](./problems/242.js)
 - [821 - Shortest Distance to a Character](./problems/821.js)
 - [1329 - Sort the Matrix Diagonally](./problems/1329.js)
+- [1337 - The K Weakest Rows in a Matrix](./problems/1337.js)
+- [1342 - Number of Steps to Reduce a Number to Zero](./problems/1342.js)
 - [1437 - Check If All 1's Are at Least Length K Places Away](./problems/1437.js)
 - [1641 - Count Sorted Vowel Strings](./problems/1641.js)
 - [1663 - Smallest String With A Given Numeric Value](./problems/1663.js)
