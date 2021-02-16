@@ -11,6 +11,7 @@ Problems from https://leetcode.com/
 - [199 - Binary Tree Right Side View](./problems/199.js)
 - [284 - Peeking Iterator](./problems/284.js)
 - [242 - Valid Anagram](./problems/242.js)
+- [784 - Letter Case Permutation](./problems/784.js)
 - [821 - Shortest Distance to a Character](./problems/821.js)
 - [1329 - Sort the Matrix Diagonally](./problems/1329.js)
 - [1337 - The K Weakest Rows in a Matrix](./problems/1337.js)
