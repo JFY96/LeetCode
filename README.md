@@ -16,6 +16,7 @@ Problems from https://leetcode.com/
 | [413](https://leetcode.com/problems/arithmetic-slices) | [Arithmetic Slices](./problems/413.js) | JavaScript |
 | [784](https://leetcode.com/problems/letter-case-permutation) | [Letter Case Permutation](./problems/784.js) | JavaScript |
 | [821](https://leetcode.com/problems/shortest-distance-to-a-character) | [Shortest Distance to a Character](./problems/821.js) | JavaScript |
+| [991](https://leetcode.com/problems/broken-calculator/) | [Broken Calculator](./problems/991.js) | JavaScript |
 | [1329](https://leetcode.com/problems/sort-the-matrix-diagonally) | [Sort the Matrix Diagonally](./problems/1329.js) | JavaScript |
 | [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | [The K Weakest Rows in a Matrix](./problems/1337.js) | JavaScript |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Number of Steps to Reduce a Number to Zero](./problems/1342.js) | JavaScript |
