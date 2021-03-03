@@ -15,8 +15,11 @@ Problems from https://leetcode.com/
 | [199](https://leetcode.com/problems/binary-tree-right-side-view) | [Binary Tree Right Side View](./problems/199.js) | JavaScript |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](./problems/240.js) | JavaScript |
 | [242](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](./problems/242.js) | JavaScript |
+| [268](https://leetcode.com/problems/missing-number) | [Missing Number](./problems/268.js) | JavaScript |
 | [284](https://leetcode.com/problems/peeking-iterator) | [Peeking Iterator](./problems/284.js) | JavaScript |
 | [413](https://leetcode.com/problems/arithmetic-slices) | [Arithmetic Slices](./problems/413.js) | JavaScript |
+| [575](https://leetcode.com/problems/distribute-candies) | [Distribute Candies](./problems/575.js) | JavaScript |
+| [645](https://leetcode.com/problems/set-mismatch) | [Set Mismatch](./problems/645.js) | JavaScript |
 | [784](https://leetcode.com/problems/letter-case-permutation) | [Letter Case Permutation](./problems/784.js) | JavaScript |
 | [821](https://leetcode.com/problems/shortest-distance-to-a-character) | [Shortest Distance to a Character](./problems/821.js) | JavaScript |
 | [856](https://leetcode.com/problems/score-of-parentheses/) | [Score of Parentheses](./problems/856.js) | JavaScript |
