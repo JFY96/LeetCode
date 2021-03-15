@@ -19,6 +19,7 @@ Problems from https://leetcode.com/
 | [242](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](./problems/242.js) | JavaScript |
 | [268](https://leetcode.com/problems/missing-number) | [Missing Number](./problems/268.js) | JavaScript |
 | [284](https://leetcode.com/problems/peeking-iterator) | [Peeking Iterator](./problems/284.js) | JavaScript |
+| [322](https://leetcode.com/problems/coin-change) | [Coin Change](./problems/322.js) | JavaScript |
 | [413](https://leetcode.com/problems/arithmetic-slices) | [Arithmetic Slices](./problems/413.js) | JavaScript |
 | [575](https://leetcode.com/problems/distribute-candies) | [Distribute Candies](./problems/575.js) | JavaScript |
 | [623](https://leetcode.com/problems/add-one-row-to-tree) | [Add One Row to Tree](./problems/623.js) | JavaScript |
@@ -35,3 +36,4 @@ Problems from https://leetcode.com/
 | [1663](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value) | [Smallest String With A Given Numeric Value](./problems/1663.js) | JavaScript |
 | [1679](https://leetcode.com/problems/max-number-of-k-sum-pairs) | [Max Number of K-Sum Pairs](./problems/1679.js) | JavaScript |
 | [1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers) | [Concatenation of Consecutive Binary Numbers](./problems/1680.js) | JavaScript |
+| [1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | [Swapping Nodes in a Linked List](./problems/1721.js) | JavaScript |
