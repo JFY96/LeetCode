@@ -26,6 +26,7 @@ Problems from https://leetcode.com/
 | [645](https://leetcode.com/problems/set-mismatch) | [Set Mismatch](./problems/645.js) | JavaScript |
 | [784](https://leetcode.com/problems/letter-case-permutation) | [Letter Case Permutation](./problems/784.js) | JavaScript |
 | [821](https://leetcode.com/problems/shortest-distance-to-a-character) | [Shortest Distance to a Character](./problems/821.js) | JavaScript |
+| [844](https://leetcode.com/problems/backspace-string-compare/) | [Backspace String Compare](./problems/844.js) | JavaScript |
 | [856](https://leetcode.com/problems/score-of-parentheses/) | [Score of Parentheses](./problems/856.js) | JavaScript |
 | [991](https://leetcode.com/problems/broken-calculator/) | [Broken Calculator](./problems/991.js) | JavaScript |
 | [1329](https://leetcode.com/problems/sort-the-matrix-diagonally) | [Sort the Matrix Diagonally](./problems/1329.js) | JavaScript |
