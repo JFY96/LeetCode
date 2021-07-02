@@ -24,6 +24,7 @@ Problems from https://leetcode.com/
 | [575](https://leetcode.com/problems/distribute-candies) | [Distribute Candies](./problems/575.js) | JavaScript |
 | [623](https://leetcode.com/problems/add-one-row-to-tree) | [Add One Row to Tree](./problems/623.js) | JavaScript |
 | [645](https://leetcode.com/problems/set-mismatch) | [Set Mismatch](./problems/645.js) | JavaScript |
+| [658](https://leetcode.com/problems/find-k-closest-elements/) | [Find K Closest Elements](./problems/658.js) | JavaScript |
 | [784](https://leetcode.com/problems/letter-case-permutation) | [Letter Case Permutation](./problems/784.js) | JavaScript |
 | [821](https://leetcode.com/problems/shortest-distance-to-a-character) | [Shortest Distance to a Character](./problems/821.js) | JavaScript |
 | [844](https://leetcode.com/problems/backspace-string-compare/) | [Backspace String Compare](./problems/844.js) | JavaScript |
