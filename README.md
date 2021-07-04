@@ -2,6 +2,9 @@
 
 Problems from https://leetcode.com/
 
+<!--
+| []() | [](./problems/.js) | JavaScript |
+-->
 | Leetcode Link | My Solution | Language |
 | :--- | :--- | :--- |
 | [9](https://leetcode.com/problems/palindrome-number) | [Palindrome Number](./problems/9.js) | JavaScript |
@@ -30,6 +33,7 @@ Problems from https://leetcode.com/
 | [844](https://leetcode.com/problems/backspace-string-compare/) | [Backspace String Compare](./problems/844.js) | JavaScript |
 | [856](https://leetcode.com/problems/score-of-parentheses/) | [Score of Parentheses](./problems/856.js) | JavaScript |
 | [991](https://leetcode.com/problems/broken-calculator/) | [Broken Calculator](./problems/991.js) | JavaScript |
+| [1220](https://leetcode.com/problems/count-vowels-permutation/) | [Count Vowels Permutation](./problems/1220.js) | JavaScript |
 | [1329](https://leetcode.com/problems/sort-the-matrix-diagonally) | [Sort the Matrix Diagonally](./problems/1329.js) | JavaScript |
 | [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | [The K Weakest Rows in a Matrix](./problems/1337.js) | JavaScript |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Number of Steps to Reduce a Number to Zero](./problems/1342.js) | JavaScript |
