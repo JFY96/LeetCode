@@ -34,6 +34,7 @@ Problems from https://leetcode.com/
 | [844](https://leetcode.com/problems/backspace-string-compare/) | [Backspace String Compare](./problems/844.js) | JavaScript |
 | [856](https://leetcode.com/problems/score-of-parentheses/) | [Score of Parentheses](./problems/856.js) | JavaScript |
 | [991](https://leetcode.com/problems/broken-calculator/) | [Broken Calculator](./problems/991.js) | JavaScript |
+| [1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | [Minimum Cost to Move Chips to The Same Position](./problems/1217.ts) | TypeScript |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | [Count Vowels Permutation](./problems/1220.js) | JavaScript |
 | [1329](https://leetcode.com/problems/sort-the-matrix-diagonally) | [Sort the Matrix Diagonally](./problems/1329.js) | JavaScript |
 | [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | [The K Weakest Rows in a Matrix](./problems/1337.js) | JavaScript |
