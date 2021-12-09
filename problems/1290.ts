@@ -55,3 +55,5 @@ const getDecimalValue = (head: ListNode | null): number  => {
 	}
 	return number;
 };
+
+export {};

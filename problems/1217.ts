@@ -44,3 +44,5 @@ const test = (positions: number[]): void => {
 test([1,2,3]);
 test([2,2,2,3,3]);
 test([1,1000000000]);
+
+export {};

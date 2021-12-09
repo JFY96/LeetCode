@@ -38,6 +38,7 @@ Problems from https://leetcode.com/
 | [1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | [Minimum Cost to Move Chips to The Same Position](./problems/1217.ts) | TypeScript |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | [Count Vowels Permutation](./problems/1220.js) | JavaScript |
 | [1290](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Convert Binary Number in a Linked List to Integer](./problems/1290.ts) | TypeScript |
+| [1306](https://leetcode.com/problems/jump-game-iii/) | [Jump Game III](./problems/1306.ts) | TypeScript |
 | [1329](https://leetcode.com/problems/sort-the-matrix-diagonally) | [Sort the Matrix Diagonally](./problems/1329.js) | JavaScript |
 | [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | [The K Weakest Rows in a Matrix](./problems/1337.js) | JavaScript |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Number of Steps to Reduce a Number to Zero](./problems/1342.js) | JavaScript |
