@@ -4,6 +4,7 @@ Problems from https://leetcode.com/
 
 <!--
 | []() | [](./problems/.js) | JavaScript |
+| []() | [](./problems/.ts) | TypeScript |
 -->
 | Leetcode Link | My Solution | Language |
 | :--- | :--- | :--- |
@@ -34,6 +35,7 @@ Problems from https://leetcode.com/
 | [821](https://leetcode.com/problems/shortest-distance-to-a-character) | [Shortest Distance to a Character](./problems/821.js) | JavaScript |
 | [844](https://leetcode.com/problems/backspace-string-compare/) | [Backspace String Compare](./problems/844.js) | JavaScript |
 | [856](https://leetcode.com/problems/score-of-parentheses/) | [Score of Parentheses](./problems/856.js) | JavaScript |
+| [878](https://leetcode.com/problems/nth-magical-number/) | [Nth Magical Number](./problems/878.ts) | TypeScript |
 | [991](https://leetcode.com/problems/broken-calculator/) | [Broken Calculator](./problems/991.js) | JavaScript |
 | [1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | [Minimum Cost to Move Chips to The Same Position](./problems/1217.ts) | TypeScript |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | [Count Vowels Permutation](./problems/1220.js) | JavaScript |
