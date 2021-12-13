@@ -45,6 +45,7 @@ Problems from https://leetcode.com/
 | [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | [The K Weakest Rows in a Matrix](./problems/1337.js) | JavaScript |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Number of Steps to Reduce a Number to Zero](./problems/1342.js) | JavaScript |
 | [1437](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away) | [Check If All 1's Are at Least Length K Places Away](./problems/1437.js) | JavaScript |
+| [1446](https://leetcode.com/problems/consecutive-characters/) | [Consecutive Characters](./problems/1446.ts) | TypeScript |
 | [1641](https://leetcode.com/problems/count-sorted-vowel-strings) | [Count Sorted Vowel Strings](./problems/1641.js) | JavaScript |
 | [1663](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value) | [Smallest String With A Given Numeric Value](./problems/1663.js) | JavaScript |
 | [1679](https://leetcode.com/problems/max-number-of-k-sum-pairs) | [Max Number of K-Sum Pairs](./problems/1679.js) | JavaScript |
