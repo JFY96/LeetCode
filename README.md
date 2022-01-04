@@ -38,6 +38,7 @@ Problems from https://leetcode.com/
 | [878](https://leetcode.com/problems/nth-magical-number/) | [Nth Magical Number](./problems/878.ts) | TypeScript |
 | [938](https://leetcode.com/problems/range-sum-of-bst/) | [Range Sum of BST](./problems/938.ts) | TypeScript |
 | [991](https://leetcode.com/problems/broken-calculator/) | [Broken Calculator](./problems/991.js) | JavaScript |
+| [1009](https://leetcode.com/problems/complement-of-base-10-integer/) | [Complement of Base 10 Integer](./problems/1009.ts) | TypeScript |
 | [1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | [Minimum Cost to Move Chips to The Same Position](./problems/1217.ts) | TypeScript |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | [Count Vowels Permutation](./problems/1220.js) | JavaScript |
 | [1290](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Convert Binary Number in a Linked List to Integer](./problems/1290.ts) | TypeScript |
