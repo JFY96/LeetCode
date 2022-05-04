@@ -38,6 +38,28 @@ Constraints:
  * @return {number}
  */
 var maxOperations = function(nums, k) {
+	let operations = 0;
+	let counts = new Map();
+	// loop over the numbers to store count of each number, and try match with a complement each iteration
+	for (const num of nums) {
+		if (num >= k) continue;
+		const complementCount = counts.get(k-num);
+		if (complementCount) {
+			operations++;
+			counts.set(k-num, complementCount - 1);
+		} else {
+			counts.set(num, (counts.get(num) || 0) + 1);
+		}
+	}
+	return operations;
+};
+
+/**
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {number}
+ */
+var maxOperations_old = function(nums, k) {
     let operations = 0;
     const kEven = (k % 2 === 0);
     const halfOfK = kEven ? k/2 : Math.floor(k/2);
