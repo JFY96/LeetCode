@@ -19,6 +19,7 @@ Problems from https://leetcode.com/
 | [141](https://leetcode.com/problems/linked-list-cycle) | [Linked List Cycle](./problems/141.js) | JavaScript |
 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Intersection of Two Linked Lists](./problems/160.js) | JavaScript |
 | [199](https://leetcode.com/problems/binary-tree-right-side-view) | [Binary Tree Right Side View](./problems/199.js) | JavaScript |
+| [225](https://leetcode.com/problems/implement-stack-using-queues/) | [Implement Stack using Queues](./problems/225.ts) | TypeScript |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](./problems/240.js) | JavaScript |
 | [242](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](./problems/242.js) | JavaScript |
 | [268](https://leetcode.com/problems/missing-number) | [Missing Number](./problems/268.js) | JavaScript |
