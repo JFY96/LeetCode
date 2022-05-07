@@ -27,6 +27,7 @@ Problems from https://leetcode.com/
 | [322](https://leetcode.com/problems/coin-change) | [Coin Change](./problems/322.js) | JavaScript |
 | [337](https://leetcode.com/problems/house-robber-iii) | [House Robber III](./problems/337.js) | JavaScript |
 | [413](https://leetcode.com/problems/arithmetic-slices) | [Arithmetic Slices](./problems/413.js) | JavaScript |
+| [456](https://leetcode.com/problems/132-pattern/) | [132 Pattern](./problems/456.ts) | TypeScript |
 | [563](https://leetcode.com/problems/binary-tree-tilt) | [Binary Tree Tilt](./problems/563.ts) | TypeScript |
 | [575](https://leetcode.com/problems/distribute-candies) | [Distribute Candies](./problems/575.js) | JavaScript |
 | [623](https://leetcode.com/problems/add-one-row-to-tree) | [Add One Row to Tree](./problems/623.js) | JavaScript |
