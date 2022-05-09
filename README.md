@@ -11,6 +11,7 @@ Problems from https://leetcode.com/
 | [9](https://leetcode.com/problems/palindrome-number) | [Palindrome Number](./problems/9.js) | JavaScript |
 | [12](https://leetcode.com/problems/integer-to-roman) | [Integer to Roman](./problems/12.js) | JavaScript |
 | [13](https://leetcode.com/problems/roman-to-integer) | [Roman to Integer](./problems/13.js) | JavaScript |
+| [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Letter Combinations of a Phone Number](./problems/17.ts) | TypeScript |
 | [20](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](./problems/20.js) | JavaScript |
 | [21](https://leetcode.com/problems/merge-two-sorted-lists) | [Merge Two Sorted Lists](./problems/21.js) | JavaScript |
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](./problems/26.js) | JavaScript |
