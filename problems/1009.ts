@@ -43,3 +43,5 @@ const test = (n: number): void => {
 test(5);
 test(7);
 test(10);
+
+export {};
