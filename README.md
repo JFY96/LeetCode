@@ -8,6 +8,7 @@ Problems from https://leetcode.com/
 -->
 | Leetcode Link | My Solution | Language |
 | :--- | :--- | :--- |
+| [1](https://leetcode.com/problems/two-sum/) | [Two Sum](./problems/1.ts) | TypeScript |
 | [9](https://leetcode.com/problems/palindrome-number) | [Palindrome Number](./problems/9.js) | JavaScript |
 | [12](https://leetcode.com/problems/integer-to-roman) | [Integer to Roman](./problems/12.js) | JavaScript |
 | [13](https://leetcode.com/problems/roman-to-integer) | [Roman to Integer](./problems/13.js) | JavaScript |
@@ -20,6 +21,7 @@ Problems from https://leetcode.com/
 | [141](https://leetcode.com/problems/linked-list-cycle) | [Linked List Cycle](./problems/141.js) | JavaScript |
 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Intersection of Two Linked Lists](./problems/160.js) | JavaScript |
 | [199](https://leetcode.com/problems/binary-tree-right-side-view) | [Binary Tree Right Side View](./problems/199.js) | JavaScript |
+| [217](https://leetcode.com/problems/contains-duplicate/) | [Contains Duplicate](./problems/217.ts) | TypeScript |
 | [225](https://leetcode.com/problems/implement-stack-using-queues/) | [Implement Stack using Queues](./problems/225.ts) | TypeScript |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](./problems/240.js) | JavaScript |
 | [242](https://leetcode.com/problems/valid-anagram) | [Valid Anagram](./problems/242.js) | JavaScript |
