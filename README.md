@@ -18,6 +18,7 @@ Problems from https://leetcode.com/
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Remove Duplicates from Sorted Array](./problems/26.js) | JavaScript |
 | [35](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](./problems/35.js) | JavaScript |
 | [71](https://leetcode.com/problems/simplify-path) | [Simplify Path](./problems/71.js) | JavaScript |
+| [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](./problems/125.ts) | TypeScript |
 | [141](https://leetcode.com/problems/linked-list-cycle) | [Linked List Cycle](./problems/141.js) | JavaScript |
 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Intersection of Two Linked Lists](./problems/160.js) | JavaScript |
 | [199](https://leetcode.com/problems/binary-tree-right-side-view) | [Binary Tree Right Side View](./problems/199.js) | JavaScript |
